@@ -61,3 +61,4 @@ Visit: [http://localhost:3000](http://localhost:3000)
 - 🛰️ Add procedural star generation
 - 🌍 Improve interstellar navigation mechanics
 - 📡 Add real astronomical datasets for star mapping
+
