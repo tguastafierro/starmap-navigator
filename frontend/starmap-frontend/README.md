@@ -8,6 +8,12 @@
 
 ## ✨ Features
 
+- **StarShip Controls**:
+  - **A and D** control the pitch
+  - **W and S** control the yaw
+  - **Q and E** control the strafe
+  - **Mouse right-click** activates thrust
+
 - **Navigate Space**: Move around the star map using **WASD** controls.
 - **Warp to Stars**: Click on a star to warp near it instantly.
 - **Travel Planning**: Add stars to an interstellar travel plan, which appears on screen with the total calculated distance.
@@ -61,8 +67,16 @@ Visit: [http://localhost:3000](http://localhost:3000)
 - **Redux** - State management
 - **Three.js** - 3D graphics rendering
 - **Cypress** - Integration and unit testing
+- **TailwindCSS** - Styling framework
 
 ## 🎯 Future Enhancements
 - 🛰️ Add procedural star generation
 - 🌍 Improve interstellar navigation mechanics
 - 📡 Add real astronomical datasets for star mapping
+
+## 🛡️ License
+This project is licensed under the MIT License.
+
+---
+
+Made with ❤️ for space explorers!

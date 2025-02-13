@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@cypress/react": "^9.0.0",
+    "@cypress/webpack-dev-server": "^4.0.1",
+    "tailwindcss": "^3.4.17"
+  },
+  "dependencies": {
+    "react-redux": "^9.2.0",
+    "redux": "^5.0.1"
+  }
+}
