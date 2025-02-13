@@ -24,7 +24,7 @@
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/starmap-navigator.git
+git clone https://github.com/tguastafierro/starmap-navigator
 cd starmap-navigator
 ```
 
@@ -36,24 +36,12 @@ cd frontend/starmap-frontend
 npm install
 ```
 
-#### Backend
-```sh
-cd backend
-npm install
-```
-
 ### 3️⃣ Run the Application
 
 #### Start the Frontend
 ```sh
 cd frontend/starmap-frontend
 npm run dev
-```
-
-#### Start the Backend
-```sh
-cd starmap-backend
-npm run start:dev
 ```
 
 ### 4️⃣ Open in Browser
